@@ -81,7 +81,8 @@ WHERE p.status = 'pendente'
 > (Adicione prints do seu app na pasta /assets)
 
 ```md
-![Tela inicial](assets/tela1.png)
+![Tela inicial](assets/tela1<img width="1811" height="906" alt="image" src="https://github.com/user-attachments/assets/354dc57e-2ed1-4dbc-8c5c-cc50268bc86c" />
+.png)
 ![Queries](assets/tela2.png)
 ```
 
